@@ -45,6 +45,7 @@
     "sequelize-cli": "6.4.1"
   },
   "dependencies": {
+    "create-react-app": "^5.0.1",
     "styled-components": "^5.3.9"
   }
 }
